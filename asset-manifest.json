@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CarroDeCompras/static/css/main.e6c13ad2.css",
-    "main.js": "/CarroDeCompras/static/js/main.f0a2855a.js",
+    "main.js": "/CarroDeCompras/static/js/main.1d26618b.js",
     "static/js/787.da3cf394.chunk.js": "/CarroDeCompras/static/js/787.da3cf394.chunk.js",
     "index.html": "/CarroDeCompras/index.html",
     "main.e6c13ad2.css.map": "/CarroDeCompras/static/css/main.e6c13ad2.css.map",
-    "main.f0a2855a.js.map": "/CarroDeCompras/static/js/main.f0a2855a.js.map",
+    "main.1d26618b.js.map": "/CarroDeCompras/static/js/main.1d26618b.js.map",
     "787.da3cf394.chunk.js.map": "/CarroDeCompras/static/js/787.da3cf394.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.f0a2855a.js"
+    "static/js/main.1d26618b.js"
   ]
 }
